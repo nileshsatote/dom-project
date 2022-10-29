@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(212, 151, 7);
+}
+h1{
+    font-family:Brush Script MT;
+    font-size:3cm;
+    text-align: center;
+}
+
+.img1{
+    float: left;
+width:5cm;
+margin-left: 13cm;
+}
+
+.img2{
+    float: right;
+    width: 5cm;
+    margin-right: 13cm;
+}
+
+.player{
+    font-family:Brush Script MT;
+    font-size:2m;
+    text-align: center;
+    text-decoration: dashed;
+    font-size: xx-large;
+    
+}
+footer
+{
+    margin-top: 20%;
+    text-align:center;
+    font-size: 25px;
+}
+/* .btn{
+    background-color: aqua;
+    margin-top :10%;;
+} */
